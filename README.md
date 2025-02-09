@@ -25,6 +25,6 @@ MORE INFO ON THE MIT LICENSE.
 
 ## CREDITS
 <div >
-__This project is led by Wys and NovaTsu.__
+_This project is led by Wys and NovaTsu._
 
 </div>

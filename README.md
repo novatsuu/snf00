@@ -26,11 +26,7 @@ MORE INFO ON THE MIT LICENSE.
 
 ## 👨‍🍳 CREDITS
 <div >
-This project is led by 
-[Wys](https://github.com/wys-prog/) 
-  and 
-[NovaTsu](https://www.youtube.com/@novatsu).
-
+This project is led by Wys and NovaTsu
 All music, images, sounds, etc. that were not made by us will be credited in the game.
 
 Thanks for the people who support us!

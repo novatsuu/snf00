@@ -9,7 +9,7 @@ This game contains scripts that reduce access between the PC and the user, impos
 **_If you want to stop the game, please consult the emergency closing mode_**
 </div>
 
-## 🕵️‍♂️ MODDING
+## 🕵️‍♂️ MODDING, ETC.
 <div >
 
 </div>

@@ -18,6 +18,7 @@ If you want to close it, press ESC several times, this will stop the game entire
 You have the right to make mods, so modify our code and publish it, or reuse bits of code for your projects, there is no point in restricting yourself with all that. ;)
 
 If you want, a modder's kit and documentation is available right here: https://github.com/novatsuu/snf00-sourcemod
+Or [click here](https://github.com/novatsuu/snf00)
 
 PLEASE CREDIT US IF YOU DO THIS,
 MORE INFO ON THE MIT LICENSE.

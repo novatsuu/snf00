@@ -4,12 +4,12 @@ Meet Mei, your new virtual friend
 ## ⚠ WARNING ⚠
 <div >
 This game may contain horror, so screamers, effects that can cause epilepsy, or even graphic content (minimal)
-This game contains scripts that reduce access between the PC and the user, impossible to close the game, or use your keyboard\mouse.
+This game contains scripts that reduce access between the PC and the user, impossible to close the game sometimes, or use your keyboard\mouse.
 
 **_If you want to stop the game, please consult the emergency closing mode_**
 
 ### EMERGENCY CLOSING MODE
-The game prevents you from closing it, to scare you lol.
+The game prevents you from closing it sometimes, to scare you lol.
 If you want to close it, press ESC several times, this will stop the game entirely.
 </div>
 

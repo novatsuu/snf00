@@ -23,9 +23,9 @@ PLEASE CREDIT US IF YOU DO THIS,
 MORE INFO ON THE MIT LICENSE.
 </div>
 
-## CREDITS
+## 👨‍🍳 CREDITS
 <div >
-### This project is led by Wys and NovaTsu.
+This project is led by Wys and NovaTsu.
 
 All music, images, sounds, etc. that were not made by us will be credited in the game.
 

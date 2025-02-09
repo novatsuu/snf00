@@ -23,3 +23,8 @@ PLEASE CREDIT US IF YOU DO THIS,
 MORE INFO ON THE MIT LICENSE.
 </div>
 
+## CREDITS
+<div >
+__This project is led by Wys and NovaTsu.__
+
+</div>

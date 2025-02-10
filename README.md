@@ -32,3 +32,4 @@ All music, images, sounds, etc. that were not made by us will be credited in the
 
 Thanks for the people who support us!
 </div>
+

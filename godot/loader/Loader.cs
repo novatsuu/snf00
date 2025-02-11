@@ -9,18 +9,7 @@ public partial class Loader : Node
 {
 	public string[] GetProgramsInDir(string dir)
 	{
-		var rslt = Directory.GetFiles(dir);
-		List<string> selected = [];
-
-		foreach (var item in rslt)
-		{
-			if (item.EndsWith(".gd") || item.EndsWith(".snfsh"))
-			{
-				_ = selected.Append(item);
-			}
-		}
-
-		return [.. selected];
+		return Directory.GetFiles(dir);
 	}
 
 	public void LoadProgramFile(GDScript script, string program)

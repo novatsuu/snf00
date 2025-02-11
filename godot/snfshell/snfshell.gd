@@ -17,15 +17,15 @@ func gename(length: int) -> String:
 		random_string += charset[rng.randi_range(0, charset.length() - 1)]
 	return random_string
 
-
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
 	pass # Replace with function body.
 
 func execute(cmd: Array) -> int:
 	var loaded : Array = loader.GetProgramsInDir(path)
+	print(loaded)
 	
-	if not loaded.find(loaded) == -1:
+	if cmd[0] in loaded:
 		r_output.text += '\n[color=red]snfsh: not found:\t' + cmd[0] + '[/color]'
 	else:
 		var node = app_base.instantiate()

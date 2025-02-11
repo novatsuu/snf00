@@ -10,12 +10,15 @@ custom_minimum_size = Vector2(460, 320)
 offset_right = 460.0
 offset_bottom = 320.0
 bbcode_enabled = true
+scroll_following = true
+tab_size = 2
 
 [node name="TextEdit" type="TextEdit" parent="."]
 modulate = Color(1, 1, 1, 0)
 custom_minimum_size = Vector2(460, 320)
 offset_right = 460.0
 offset_bottom = 320.0
+placeholder_text = "~/snf/~ "
 
 [connection signal="lines_edited_from" from="TextEdit" to="." method="_on_text_edit_lines_edited_from"]
 [connection signal="text_changed" from="TextEdit" to="." method="_on_text_edit_text_changed"]
